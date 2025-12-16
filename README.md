@@ -1,2 +1,2 @@
-# my-website
-My own website built with HTML and CSS
+# Portfolio
+My web developer portfolio with HTML and CSS
